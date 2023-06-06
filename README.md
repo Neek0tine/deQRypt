@@ -1,6 +1,7 @@
 # Methods
 - PCLines
 - Hough Spaces
+- CNN if image is blurry/broken (Not real time)
 - Add format and version information
 - Apply the mask patterns and determine which one results in the lowest penalty
 - Place the data and error correction bits in the matrix
