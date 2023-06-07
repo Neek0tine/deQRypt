@@ -1,4 +1,5 @@
 # Optimized QR Code Scanner 
+![deQRypt](https://github.com/Neek0tine/deQRypt/blob/main/assets/banner.png)
 
 ## Methods
 
